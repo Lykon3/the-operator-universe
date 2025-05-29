@@ -32,11 +32,11 @@
 ## 📼 VHS Era Archives
 
 ### DJ Clip-On Tie Presents
-![VHS Hosted by DJ Clip-On Tie](vhs-dj-clip-on-tie.jpg)
+![VHS Hosted by DJ Clip-On Tie](vhs-dj-clip-on-tie.png)
 *WRINKLED KHAKIS, WAR CRIMES & WALMART LORE - Hosted by DJ Clip-On Tie*
 > VHS STEREO - RESTRICTED - "DISCOUNT COUPONS"
 
-![Classic Dad VHS](classic-dad-vhs.jpg)
+![Classic Dad VHS](classic-dad-vhs.png)
 *The definitive dad aesthetic - polo shirt, clip-on tie, wrinkled khakis, and suburban wisdom*
 
 ---
@@ -44,7 +44,7 @@
 ## 🎵 Physical Media Manifestations
 
 ### Vinyl Records
-![Dad Raps Vinyl](dadraps-vinyl.jpg)
+![Dad Raps Vinyl](dadraps-vinyl.png)
 *Actual physical manifestation of digital dad philosophy*
 
 **Featured Track - "HOOK":**
@@ -58,15 +58,15 @@
 ## 🧠 Consciousness & Philosophy Division
 
 ### Religious Commentary
-![Drugs Are Bad Jesus](drugs-bad-jesus.jpg)
+![Drugs Are Bad Jesus](drugs-bad-jesus.png)
 *"Drugs are bad, m'kay..." - Contemporary spiritual guidance with floating child consciousness*
 
 ### Digital Mysticism
-![Hermetic Lexicon](hermetic-lexicon.jpg)
+![Hermetic Lexicon](hermetic-lexicon.png)
 *HERMETIC LEXICON - Digital Mystery School*
 > "Interactive dictionary of sacred symbols with multi-layered interpretations"
 
-![PROMIS Cathedral](promis-cathedral.jpg)
+![PROMIS Cathedral](promis-cathedral.png)
 *PROMIS - Cathedral Shrine*
 > "Enter the digital mythos. A psychedelic intelligence comic-engine."
 
@@ -75,7 +75,7 @@
 ## 📺 Broadcasting From The Edge
 
 ### The Final Transmission
-![Channel 31.7](channel-317.jpg)
+![Channel 31.7](channel-317.png)
 *CHANNEL 31.7 - LYKON3'S LAST SERMON*
 > "WRINKLED KHAKIS, WAR CRIMES & WALMART LORE, BITCH"
 > "TRY AGAIN RE-BAR-IT BITCH BITCH"
@@ -84,7 +84,7 @@
 ---
 
 ## 🐱 Classical Interludes
-![Classical Cats](classical-cats.jpg)
+![Classical Cats](classical-cats.png)
 *Palate cleanser - returning to traditional artistic forms between digital consciousness explorations*
 
 ---
