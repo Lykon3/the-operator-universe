@@ -1,3 +1,9 @@
+  <img src="https://raw.githubusercontent.com/Lykon3/Lykon3/main/Screenshot_20250527_063554_Messages.jpg" alt="LYKON3 Banner" />
+</p>
+
+![GitHub last commit](https://img.shields.io/github/last-commit/Lykon3/the-operator-universe)
+![Repo size](https://img.shields.io/github/repo-size/Lykon3/the-operator-universe)
+
 # The Operator Universe
 
 *A transmedia mythology exploring consciousness, control, and the hidden patterns that shape reality.*
