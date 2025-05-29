@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/Lykon3/the-operator-universe
+/(H&AI.LE&1).so-SINcere.jpg" alt="LYKON3 Banner" />
+</p>
+  
   <img src="https://raw.githubusercontent.com/Lykon3/Lykon3/main/Screenshot_20250527_063554_Messages.jpg" alt="LYKON3 Banner" />
 </p>
 
