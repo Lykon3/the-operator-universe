@@ -59,6 +59,9 @@ This universe grows through collaborative discovery. Found a connection? Spotted
 - `origins/` - Foundation stories and character origins
 - `research/` - Academic papers and theoretical frameworks  
 - `characters/` - Character profiles and fragments
+-
+- It's all part of a fictional universe that blends breaking the 4th wall with historical and current events and fringe conspiracy theories and stuff...I'm writing and seeding GitHub with materials for future fans to take part in open source storytelling and world building
+- 
 - `pattern-documents/` - Glyphs, nodes, and Pattern analysis
 - `interactive/` - Tools and interfaces for engagement
 - `creative/` - Stories, comics, satire
