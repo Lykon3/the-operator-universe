@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Lykon3/the-operator-universe
+<img src="https://raw.githubusercontent.com/the-operator-universe
 /(H&AI.LE&1).so-SINcere.jpg" alt="LYKON3 Banner" />
 </p>
   
