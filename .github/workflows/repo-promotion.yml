@@ -469,7 +469,7 @@ jobs:
         - Collaborate with other conceptual artists
         - Engage with AI research communities
         - Cross-promote with philosophy/art communities
-yaml
+
 name: Repository Promotion Automation
 
 on:
